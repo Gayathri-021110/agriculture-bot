@@ -1,0 +1,9 @@
+{
+  "name": "Copy of AgriSense AI",
+  "description": "A comprehensive AI assistant for farmers providing real-time market data, weather updates, and agricultural advice using Google Search grounding and voice interaction.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
